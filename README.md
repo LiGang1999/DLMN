@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Download [Cityscapes](https://www.cityscapes-dataset.com/).
 
 ### Model Preparation
-Download model weights from [Official GtA adapted model from GTA5 to Cityscapes](https://drive.google.com/drive/folders/1tq_TO_KOGxwLr9ea0jXQMCUv8I_Z7TZy?usp=sharing) and copy it to `checkpoints`.
+Download model weights from [Official GtA adapted model from GTA5 to Cityscapes](https://drive.google.com/drive/folders/1MYZq6DPK6xemSM1yBz3UkwRvBW9rot5q?usp=sharing) and copy it to `checkpoints`.
 
 Download model weights from [Reproduced GtA adapted model from SYNTHIA to Cityscapes](https://drive.google.com/drive/folders/1U0jqzluki2GcEeobHuX79_3D_S28LbF9?usp=drive_link) and copy it to `checkpoints`.
 
