@@ -89,4 +89,4 @@ class CityscapesDatasetSSL(data.Dataset):
             # label = label[:, ::flip]
 
         # return label.copy(), image.copy()
-        return None, image.copy()
+        return torch.randn([5,2,0]), image.copy()
